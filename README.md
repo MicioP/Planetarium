@@ -1,5 +1,6 @@
 # Markdown Cheat Sheet
 
+<<<<<<< HEAD
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
 
 This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
@@ -117,3 +118,6 @@ H~2~O
 ### Superscript
 
 X^2^
+=======
+alcune modifiche da giacomo
+>>>>>>> d9faec48a09f5a3aa448672e386bd170de100073
